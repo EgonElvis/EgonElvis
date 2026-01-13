@@ -45,6 +45,14 @@ Thank you for stopping by!
 <a href="https://www.linkedin.com/in/egon-elvis-jorge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="egon-elvis-jorge" height="30" width="40" /></a>
 </p>
 
+---
+
+## 📊 Stats Card
+
+
+[![Egon's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=EgonElvis&show_icons=true&theme=gruvbox)](https://github.com/EgonElvis)
+
+
 <!--
 **EgonElvis/EgonElvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
